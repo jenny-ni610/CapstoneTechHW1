@@ -1,3 +1,2 @@
 # CapstoneTechHW1
-Hello - 1st edit
-added text
+Hello - 1st edit text
