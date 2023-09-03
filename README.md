@@ -1,3 +1,4 @@
 # CapstoneTechHW1
-Hello - 1st edit text
-random text
+Hello - 1st edit text 
+- hola
+- random text
